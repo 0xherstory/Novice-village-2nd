@@ -1,0 +1,33 @@
+1. 即点即用微信gpt小机器人
+https://docs.qq.com/doc/DRXVOcEFlSlhjSGdv
+
+2. 让gpt教我们写合约
+壳子gpt：
+	https://chat.ddd.dev/#/chat
+	https://www.juchats.com?code=CE38F60E
+
+## prompt：
+创建一个 ERC-20的代币，这个代币的名字叫“Big Women”, 简称是“bw”, 总量是1,000,000。请使用OpenZeppelin和 solidity，这是一个测试代币，部署在Mumbai上。请尽量使用在线环境来部署。请尽量给代码添加中文注释。
+
+## prompt写法参考：
+https://learningprompt.wiki/
+https://github.com/openai/openai-cookbook/
+https://learnprompting.org/
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
+https://humanloop.com/blog/prompt-engineering-101
+https://openprompt.co/?continueFlag=938e69b5987c01e1630b4d18499ccc84
+https://www.creativindie.com/best-midjourney-prompts-an-epic-list-of-crazy-text-to-image-ideas/?continueFlag=938e69b5987c01e1630b4d18499ccc84
+
+## 其他AI工具
+https://beta.tome.app/
+https://www.canva.com/
+https://murf.ai/
+https://www.bhuman.ai/
+https://pi.ai/
+https://aitable.ai/share/shryT3fU0WmQWyJGhNrM3/dstTqXxRz2yEfDNnD2/viwNWu41wzhVF
+https://poe.com
+https://www.framer.com/
+https://stability.ai/
+
+
+
