@@ -9,3 +9,16 @@ https://git-scm.com/downloads
 检查是否成功安装命令：git
 
 https://code.visualstudio.com/
+
+开始操作：
+  mkr web3_class //创建本地文件夹
+  cd web3_class //进入web3class文件夹
+  git clone https://github.com/scaffold-eth/se-2-challenges.git challenge-0-simple-nft //复制代码到本机
+  cd challenge-0-simple-nft //进入sample文件夹
+  yarn install //安装yarn
+  yarn chain //获取信息
+//保持该终端，再开一个新端口
+  cd web3_class
+  cd challenge-0-simple-nft
+  yarn deploy //部署
+  
