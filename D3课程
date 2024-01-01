@@ -21,4 +21,5 @@ https://code.visualstudio.com/
   cd web3_class
   cd challenge-0-simple-nft
   yarn deploy //部署
-  
+  yarn start //上线网线，在：localhost:3000
+
