@@ -1,18 +1,18 @@
 #环境安装
 https://nodejs.org/en/download/
-检查是否安装成功命令：node -v
+//检查是否安装成功命令：node -v
 
 https://yarnpkg.com/getting-started/install
 //或者
 npm install --global yarn
-检查是否成功安装命令：yarn --version
+//检查是否成功安装命令：yarn --version
 
 https://git-scm.com/downloads
-检查是否成功安装命令：git
+//检查是否成功安装命令：git
 
 https://code.visualstudio.com/
 
-开始操作：
+//开始操作：
   mkdir web3_class //创建本地文件夹
   cd web3_class //进入web3class文件夹
   git clone https://github.com/scaffold-eth/se-2-challenges.git challenge-0-simple-nft //复制代码到本机
