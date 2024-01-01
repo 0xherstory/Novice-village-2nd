@@ -3,6 +3,8 @@ https://nodejs.org/en/download/
 检查是否安装成功命令：node -v
 
 https://yarnpkg.com/getting-started/install
+//或者
+npm install --global yarn
 检查是否成功安装命令：yarn --version
 
 https://git-scm.com/downloads
