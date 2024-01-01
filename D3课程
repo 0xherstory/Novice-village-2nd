@@ -15,7 +15,7 @@ https://code.visualstudio.com/
 //开始操作：
   mkdir web3_class //创建本地文件夹
   cd web3_class //进入web3class文件夹
-  git clone https://github.com/scaffold-eth/se-2-challenges.git challenge-0-simple-nft //复制代码到本机
+  git clone https://github.com/scaffold-eth/se-2-challenges.git //复制代码到本机
   cd challenge-0-simple-nft //进入sample文件夹
   git checkout challenge-0-simple-nft
 
